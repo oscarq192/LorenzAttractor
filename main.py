@@ -1,6 +1,5 @@
 import numpy as np
 import pyvista as pv
-import time
 
 plotter = pv.Plotter()
 plotter.set_background("black")
